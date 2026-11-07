@@ -67,4 +67,7 @@ The project is divided into three distinct operational phases:
 
 ## 📐 Documentation
 
-Architectural workflow diagrams, ER diagrams, and key visuals can be found inside the `docs/` directory.
+The Roadmap diagrams for individual part 01 and part 02 is given below.
+[Advance_Analytics.pdf](https://github.com/user-attachments/files/34530074/Advance_Analytics.pdf)
+[EDA.pdf](https://github.com/user-attachments/files/34530072/EDA.pdf)
+
