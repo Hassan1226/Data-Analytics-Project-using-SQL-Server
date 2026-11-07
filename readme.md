@@ -68,6 +68,7 @@ The project is divided into three distinct operational phases:
 ## 📐 Documentation
 
 The Roadmap diagrams for individual part 01 and part 02 is given below.
-[Advance_Analytics.pdf](https://github.com/user-attachments/files/34530074/Advance_Analytics.pdf)
-[EDA.pdf](https://github.com/user-attachments/files/34530072/EDA.pdf)
+<img width="633" height="499" alt="image" src="https://github.com/user-attachments/assets/75eadc5b-3f4f-4124-b0df-0a0c34fbaebb" />
+<img width="626" height="497" alt="image" src="https://github.com/user-attachments/assets/113599cd-1837-4736-9316-8f0fe483a9f8" />
+
 
