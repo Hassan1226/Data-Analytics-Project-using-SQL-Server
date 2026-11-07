@@ -12,7 +12,7 @@ A comprehensive, end-to-end data analytics project implemented using **SQL Serve
 ## 📁 Repository Structure
 
 ```text
-├── dataset/             # Database files and datasets
+├── datasets/             # Database files and datasets
 ├── p01_scripts/         # Part 1: Database initialization and EDA scripts
 │   └── 00_init_database.sql
 ├── p02_script/          # Part 2: Advanced analytics SQL scripts
