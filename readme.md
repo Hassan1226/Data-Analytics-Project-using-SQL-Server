@@ -65,7 +65,7 @@ The project is divided into three distinct operational phases:
 
 ---
 
-## 📐 Documentation
+## 📐 Important Diagrams
 
 The Roadmap diagrams for individual part 01 and part 02 is given below.
 <img width="633" height="499" alt="image" src="https://github.com/user-attachments/assets/75eadc5b-3f4f-4124-b0df-0a0c34fbaebb" />
